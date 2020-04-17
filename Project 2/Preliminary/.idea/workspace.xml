@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91241820-003e-4e4a-abd8-a2dbb88bc09c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Final/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="18" column="34" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -47,15 +48,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584954164077" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584954386671" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,18 +93,21 @@
       <option name="presentableId" value="Default" />
       <updated>1584909388807</updated>
       <workItem from="1584909392532" duration="20000" />
-      <workItem from="1584948684427" duration="3515000" />
+      <workItem from="1584948684427" duration="4335000" />
+      <workItem from="1584979881970" duration="935000" />
+      <workItem from="1586965826464" duration="4547000" />
+      <workItem from="1587125650190" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3535000" />
+    <option name="totallyTimeSpent" value="9872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -139,8 +143,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="306">
+          <caret line="18" column="34" selection-end-line="38" />
         </state>
       </provider>
     </entry>
